@@ -6,7 +6,7 @@ import csv
 from io import StringIO
 
 eamil = "admin@oregonfirstresponderevals.com"
-password = "Packets66!"
+password = ""
 
 backend_base_url = "https://prod-api.formdr.com"
 
