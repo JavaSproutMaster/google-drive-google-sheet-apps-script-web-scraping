@@ -24,10 +24,10 @@ def login_formDr():
                 'rememberDevice': True,
                 'sixDigitCode': None,
                 'emailSecurityCode': None,
-                'deviceUuid': 'wYYnvcJx-nVmtMiuI2Vw-o8MLLbePJIc',
+                'deviceUuid': 'xxxxxxxxxx-xxxxxxxxxxx-xxxxxxxxxxx',
                 'rememberedDevice': {
                     'key': None,
-                    'token': 'B0-moyuPKN'
+                    'token': 'B0-xxxxxxxxxxx'
                 }
             }
             api_login_url = "https://prod-api.formdr.com/api/login"
